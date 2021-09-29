@@ -1,4 +1,5 @@
 [![Language][language-shield]][language-url]
+[![Language][languageH-shield]][languageH-url]
 [![MIT License][license-shield]][license-url]
 
 # Project Name
@@ -26,6 +27,7 @@ This web application takes users inputs of items and places them in a UL list us
 * _Commit and push your .gitignore file to your repo_
 * _Make sure to have .NET 5.0 installed_
 * _Run `$ dotnet restore` to install bin & obj folders_
+* _Run `$ dotnet test` in the test folder to see the passed tests_
 
 
 ## Steps To Use
@@ -52,3 +54,5 @@ _Paige Tiedeman @ github.com/paigetiedeman_
 [license-url]: https://opensource.org/licenses/MIT
 [language-shield]: https://img.shields.io/badge/Language-C%23-red
 [language-url]: https://docs.microsoft.com/en-us/dotnet/csharp/
+[LanguageH-shield]: https://img.shields.io/badge/Language-HTML-blueviolet
+[LanguageH-url]: https://developer.mozilla.org/en-US/docs/Web/HTML
