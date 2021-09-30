@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace ProjectName
+namespace ProjectName.Models
 {
   public class Project 
   {
